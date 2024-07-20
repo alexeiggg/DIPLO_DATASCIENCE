@@ -15,3 +15,8 @@ CURSOS DEL DIPLOMADO DE DATA CSIENCE PUCP 2024
 1. Intensamente
 2. Interestelar
 3. Asu Mare
+
+## University
+1. UNI
+2. UNMSM
+3. PUCP
